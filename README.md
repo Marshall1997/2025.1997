@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-Rolling Iterative Optimization in Cross-Border E-Commerce Bonded Logistics Operation by T. Ralphs. 
+Rolling Iterative Optimization in Cross-Border E-Commerce Bonded Logistics Operation by Xuhui Chen, Yong He, and Jing Chen. 
 The snapshot is based on 
 [this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
 in the development repository. 
